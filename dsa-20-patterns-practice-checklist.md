@@ -52,11 +52,15 @@ Source: [DSA was HARD until I Learned these 20 Patterns](https://blog.algomaster
 - [ ] [Online Stock Span (LeetCode #901)](https://leetcode.com/problems/online-stock-span/)
 
 ## 8. Bit Manipulation
-- [ ] [Single Number (LeetCode #136)](https://leetcode.com/problems/single-number/)
-- [ ] [Number of 1 Bits (LeetCode #191)](https://leetcode.com/problems/number-of-1-bits/)
-- [ ] [Counting Bits (LeetCode #338)](https://leetcode.com/problems/counting-bits/)
-- [ ] [Power of Two (LeetCode #231)](https://leetcode.com/problems/power-of-two/)
-- [ ] [Missing Number (LeetCode #268)](https://leetcode.com/problems/missing-number/)
+- [x] [Single Number (LeetCode #136)](https://leetcode.com/problems/single-number/)
+- [x] [Number of 1 Bits (LeetCode #191)](https://leetcode.com/problems/number-of-1-bits/)
+- [x] [Counting Bits (LeetCode #338)](https://leetcode.com/problems/counting-bits/)
+- [x] [Power of Two (LeetCode #231)](https://leetcode.com/problems/power-of-two/) : try again
+- [x] [Missing Number (LeetCode #268)](https://leetcode.com/problems/missing-number/)
+
+Notes : 
+xor in python : ^ and XOR is commutative and associative
+and in python : &
 
 ## 9. Top 'K' Elements
 - [ ] [Kth Largest Element in an Array (LeetCode #215)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
