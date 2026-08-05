@@ -2,8 +2,8 @@
 
 ## Table of Contents
 1. [x] [Python Essentials for DSA](#1-python-essentials-for-dsa)
-2. [ ] [Time & Space Complexity](#2-time--space-complexity)
-3. [ ] [Arrays & Strings](#3-arrays--strings)
+2. [x] [Time & Space Complexity](#2-time--space-complexity)
+3. [x] [Arrays & Strings](#3-arrays--strings)
 4. [ ] [Linked Lists](#4-linked-lists)
 5. [ ] [Stacks & Queues](#5-stacks--queues)
 6. [ ] [Hash Tables](#6-hash-tables)
